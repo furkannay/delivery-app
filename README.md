@@ -2,7 +2,7 @@
 
 ### ONLINE FOOD ORDERING
 
--FURKAN AY COM 20Basd
+-FURKAN AY COM 20Bas
 
 
 This website was made to order food online, you can order and enjoy your meals in a safe and pleasant way.
