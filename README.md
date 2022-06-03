@@ -14,13 +14,14 @@ You can see the scores and prices of the products you want, or you can go direct
 <img src='https://user-images.githubusercontent.com/74255322/171922337-d5299fe9-4b06-4f54-8b6f-171aa7c314a5.png'>
 
 The items you click on the heart icon are added to the item cart.You can see how many items you have ordered from the item section above.
+If you click +, the number of products will increase, if you press -, it will decrease.
 
-<img src="https://user-images.githubusercontent.com/74255322/171920319-535d7704-8dd3-4ae4-aaf9-0d539433755e.jpg">
+<img src='https://user-images.githubusercontent.com/74255322/171956974-45e1438e-b292-4380-8e27-c1f6d6799617.png'>
 
 You can enter your current address by clicking on the address section.
 
 <img src="https://user-images.githubusercontent.com/74255322/171918907-39a24ce3-8f0a-428b-ae1e-d2d2027de3bd.png">
 
-We have a copyright section at the bottom of our page.
+We have a copyright section and logo of universty at the bottom of our page.
 
-<img src='https://user-images.githubusercontent.com/74255322/171920917-6f4162c1-0a97-43f6-9edd-55c002781697.png'>
+<img src='https://user-images.githubusercontent.com/74255322/171957197-5218b21c-8f1f-46ff-ad3d-5324082f489d.png'>
